@@ -191,10 +191,4 @@ Make sure the backend is running at `http://127.0.0.1:5000` and that the fronten
 
 Run `npm install` and `npm start` inside `movie_recommender_frontend`, not the repository's parent folder.
 
-## Author
 
-Project repository: [Alexbenva/movierecomendationsystem](https://github.com/Alexbenva/movierecomendationsystem)
-
-## License
-
-Add the appropriate license details here if you intend to distribute the project.
