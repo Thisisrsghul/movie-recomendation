@@ -2,7 +2,7 @@
 
 A full-stack movie recommendation application with a React frontend and a Flask REST API backend. The backend exposes an endpoint for searching for a movie and returning recommendations. Movie metadata and recommendation artifacts are required for recommendation results.
 
-**Repository:** https://github.com/Alexbenva/movierecomendationsystem
+**Repository:** https://github.com/Thisrsghul/movie-recomendation
 
 ## Contents
 
